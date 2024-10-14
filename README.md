@@ -1,5 +1,6 @@
 # Super-Store-Sales-Analysis-
 ![Screenshot 2024-10-14 192127](https://github.com/user-attachments/assets/c5d5ccdb-5af2-40b4-bf93-cb9f0a240cea)
+[super store sales analysis.pdf](https://github.com/user-attachments/files/17364979/super.store.sales.analysis.pdf)
 
  have been deeply engaged in analyzing sales data from a superstore, focusing on key performance indicators (KPIs) to identify growth opportunities and enhance decision-making.
 
